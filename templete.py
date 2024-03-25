@@ -26,13 +26,13 @@ list_of_folders = [
     f"{project_name}/pipeline/prediction_pipeline.py",
     f"{project_name}/ml/__init__.py",
     f"{project_name}/ml/model.py",
-    "flowchat"
     "app.py",
     "demo.py",
     "requirements.txt",
     "Dockerfile",
     "setup.py",
-    ".dockerignore"
+    ".dockerignore",
+    "README.md"
 ]
 
 
