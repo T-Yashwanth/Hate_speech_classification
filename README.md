@@ -10,7 +10,7 @@
 - pipeline
 - app.py
 
-## How to run?
+### How to run?
 
 '''bash
 conda create -n hate_speech
